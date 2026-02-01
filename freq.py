@@ -375,4 +375,3 @@ if __name__ == "__main__":
                 print(fc.probability(eachline),"-",eachline)
                 
     fc.save(args.freqtable)
-1
